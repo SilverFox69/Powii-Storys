@@ -22,7 +22,7 @@ h2 {
     cursor: crosshair;
     transition: .5s ease;
     animation: bgcolor 20s infinite;
-    
+    font-weight: bold;    
   }
 
 .TextHead:hover {
