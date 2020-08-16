@@ -6,4 +6,31 @@ h1 {
 }  
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-}  
+}
+
+@keyframes bgcolor {
+    0% {
+      color: #b1e896
+    }
+  
+    100% {
+      color: #E8D33F
+    }
+  }
+
+.TextHead {
+    cursor: crosshair;
+    transition: .5s ease;
+    animation: bgcolor 20s infinite;
+    
+  }
+
+.TextHead:hover {
+    font-size: 20px; 
+}
+
+a {
+    text-decoration: none; /* no underline */
+    color: inherit; /* blue colors for links too */
+    cursor: inherit;
+}
