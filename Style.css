@@ -59,7 +59,7 @@ a {
   font-size: 20px; 
 }
 
-a {
+b {
   text-decoration: none; /* no underline */
   color: inherit; /* blue colors for links too */
   cursor: inherit;
