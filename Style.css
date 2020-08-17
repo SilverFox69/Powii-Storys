@@ -37,30 +37,3 @@ a {
     color: inherit; /* blue colors for links too */
     cursor: inherit;
 }
-
-@keyframes bgcolor {
-  0% {
-    color: #808080
-  }
-
-  100% {
-    color: #808080
-  }
-}
-
-.Silver {
-  cursor: crosshair;
-  transition: .5s ease;
-  animation: bgcolor 20s infinite;
-  font-weight: bold;    
-}
-
-.Silver:hover {
-  font-size: 20px; 
-}
-
-b {
-  text-decoration: none; /* no underline */
-  color: inherit; /* blue colors for links too */
-  cursor: inherit;
-}
