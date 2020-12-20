@@ -10,7 +10,12 @@ h2 {
 h4 {
   font-family: Arial, Helvetica, sans-serif;
 }
-
+#powii{
+  color: dodgerblue;
+}
+#silver{
+  color: silver;
+}
 @keyframes bgcolor {
     0% {
       color: #b1e896
@@ -29,7 +34,7 @@ h4 {
   }
 
 .TextHead:hover {
-    font-size: 20px; 
+    font-size: 22px; 
 }
 
 a {
