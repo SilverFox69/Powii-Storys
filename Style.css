@@ -45,7 +45,9 @@ a {
 #text{
   text-align: center;
   color: aliceblue;
-  margin: 5px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
   font-size: 19px;
 }
 #image{
